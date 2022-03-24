@@ -18,6 +18,17 @@ Repositorio con recursos de apoyo para la generación SCL020.
 <br>
 <br>
 
+#### Colores
+
+**Colorable:** Herramienta para probar contraste de colores
+[https://colorable.jxnblk.com/](https://colorable.jxnblk.com/)
+
+**Coolors:** Herramienta para generar paletas de colores
+[https://coolors.co/](https://coolors.co/)
+
+<br>
+<br>
+
 #### Imágenes
 
 **TinyJPG:** Herramienta para comprimir y reducir peso de imagenes PNG o JPG
