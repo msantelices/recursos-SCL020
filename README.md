@@ -56,5 +56,6 @@ Repositorio con recursos de apoyo para la generación SCL020.
 
 #### Otros recursos
 
-**Te lo explico con gatitos:** Cuenta de instagram con infografias y explicaciones sobre programación
+**Te lo explico con gatitos:** Web y cuenta de instagram con infografias y explicaciones sobre programación
+[https://teloexplicocongatitos.com/](https://teloexplicocongatitos.com/)
 [https://www.instagram.com/teloexplicocongatitos/](https://www.instagram.com/teloexplicocongatitos/)
