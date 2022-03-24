@@ -29,3 +29,11 @@ Repositorio con recursos de apoyo para la generación SCL020.
 
 **Git Explorer:** Herramienta para practicar comandos de Git
 [https://gitexplorer.com/](https://gitexplorer.com/)
+
+<br>
+<br>
+
+#### Otros recursos
+
+**Te lo explico con gatitos:** Cuenta de instagram con infografias y explicaciones sobre programación
+[https://www.instagram.com/teloexplicocongatitos/](https://www.instagram.com/teloexplicocongatitos/)
