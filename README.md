@@ -6,10 +6,14 @@ Repositorio con recursos de apoyo para la generación SCL020.
 
 #### Tipografías
 
-<br>
-
 **Google Fonts:** Biblioteca con tipografías gratuitas de Google
 [https://fonts.google.com/](https://fonts.google.com/)
+
+**Google Icons:** Biblioteca de iconos de Google
+[https://fonts.google.com/icons](https://fonts.google.com/icons)
+
+**Fontawesome:** Biblioteca de iconos
+[https://fontawesome.com/](https://fontawesome.com/)
 
 <br>
 <br>
@@ -19,8 +23,14 @@ Repositorio con recursos de apoyo para la generación SCL020.
 **TinyJPG:** Herramienta para comprimir y reducir peso de imagenes PNG o JPG
 [https://tinyjpg.com/](https://tinyjpg.com/)
 
-**Unsplash**: Galería de imágenes gratuitas en alta resolución
+**Unsplash:** Galería de imágenes gratuitas en alta resolución
 [https://unsplash.com/](https://unsplash.com/)
+
+**Freepik:** Biblioteca de imagenes, vectores y fotos de stock gratuitas
+[https://www.freepik.es/](https://www.freepik.es/)
+
+**Vecteezy:** Biblioteca de vectores y fotos de stock
+[https://www.vecteezy.com/](https://www.vecteezy.com/)
 
 <br>
 <br>
