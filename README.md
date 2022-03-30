@@ -4,6 +4,13 @@ Repositorio con recursos de apoyo para la generación SCL020.
 
 ---
 
+#### Píldoras
+
+**Figma:** [Video píldora Figma](https://drive.google.com/file/d/1LEbUE_XAMyevIZmNvAD3OhHBy1PkKwFZ/view)
+
+<br>
+<br>
+
 #### Tipografías
 
 **Google Fonts:** Biblioteca con tipografías gratuitas de Google
