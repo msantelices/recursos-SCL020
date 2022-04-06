@@ -4,6 +4,14 @@ Repositorio con recursos de apoyo para la generación SCL020.
 
 ---
 
+#### JavaScript
+
+**33 conceptos que todo developer JS deberia saber:** Repositorio que recopila diferentes recursos sobre diferentes conceptos de JavaScript
+[https://github.com/leonardomso/33-js-concepts](https://github.com/leonardomso/33-js-concepts)
+
+<br>
+<br>
+
 #### Píldoras
 
 **Figma:** [Video píldora Figma](https://drive.google.com/file/d/1LEbUE_XAMyevIZmNvAD3OhHBy1PkKwFZ/view)
