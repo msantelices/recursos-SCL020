@@ -4,6 +4,13 @@ Repositorio con recursos de apoyo para la generación SCL020.
 
 ---
 
+#### Gimnasio
+
+Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://github.com/Laboratoria/SCL020-gym)
+
+<br>
+<br>
+
 #### JavaScript
 
 **33 conceptos que todo developer JS deberia saber:** Repositorio que recopila diferentes recursos sobre diferentes conceptos de JavaScript
