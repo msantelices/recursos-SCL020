@@ -23,11 +23,7 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 
 **Figma:** [Video píldora Figma](https://drive.google.com/file/d/1LEbUE_XAMyevIZmNvAD3OhHBy1PkKwFZ/view)
 
-**Introducción a testing:**
-
-[Repositorio introduccion a testing](https://github.com/msantelices/taller-testing-SCL020)
-
-[Video introduccion a testing](https://drive.google.com/file/d/1fvyO64gjpVwBkJc8d0OUPLOrtBT9fq4M/view?usp=sharing)
+**Introducción a testing:** [Repositorio introduccion a testing](https://github.com/msantelices/taller-testing-SCL020) - [Video introduccion a testing](https://drive.google.com/file/d/1fvyO64gjpVwBkJc8d0OUPLOrtBT9fq4M/view?usp=sharing)
 
 <br>
 <br>
