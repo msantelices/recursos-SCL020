@@ -84,3 +84,5 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 [https://teloexplicocongatitos.com/](https://teloexplicocongatitos.com/)
 
 [https://www.instagram.com/teloexplicocongatitos/](https://www.instagram.com/teloexplicocongatitos/)
+
+**Datos Tortas:** [Presentación datos tortas](https://docs.google.com/presentation/d/1cL9j13xP7MJmJSDUdpfV2Dsh4RHMp4pl/edit?usp=sharing&ouid=100613322272875710395&rtpof=true&sd=true)
