@@ -25,6 +25,8 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 
 **Introducción a testing:** [Repositorio introduccion a testing](https://github.com/msantelices/taller-testing-SCL020) - [Video introduccion a testing](https://drive.google.com/file/d/1fvyO64gjpVwBkJc8d0OUPLOrtBT9fq4M/view?usp=sharing)
 
+**Taller sin nombre:** [Video al taller sin nombre](https://drive.google.com/file/d/1VWQYa3UteAGYwB40c2KMbm8REue6SRLv/view)
+
 <br>
 <br>
 
