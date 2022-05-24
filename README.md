@@ -27,6 +27,8 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 
 **Taller sin nombre:** [Video al taller sin nombre](https://drive.google.com/file/d/1VWQYa3UteAGYwB40c2KMbm8REue6SRLv/view)
 
+**Introducción a Firebase:** [Repositorio introduccion a firebase](https://github.com/msantelices/intro-firebase-SCL020) - [Video introduccion a firebase](https://drive.google.com/file/d/13AxAwfgi0H_bi7q4jVJMUghPB3ws6B5N/view?usp=sharing)
+
 <br>
 <br>
 
