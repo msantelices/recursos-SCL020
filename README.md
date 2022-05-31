@@ -29,6 +29,8 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 
 **Introducción a Firebase:** [Repositorio introduccion a firebase](https://github.com/msantelices/intro-firebase-SCL020) - [Video introduccion a firebase](https://drive.google.com/file/d/13AxAwfgi0H_bi7q4jVJMUghPB3ws6B5N/view?usp=sharing)
 
+**Promesas, async y await:** [Link a Replit](https://replit.com/@msantelices/promesas-async-await) - [Video promesas, async y await](https://drive.google.com/file/d/1jURhDPa2ByCz5CP657EE3fwFcKV_FpgG/view?usp=sharing)
+
 <br>
 <br>
 
