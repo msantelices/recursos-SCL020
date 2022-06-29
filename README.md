@@ -31,6 +31,8 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 
 **Promesas, async y await:** [Link a Replit](https://replit.com/@msantelices/promesas-async-await) - [Video promesas, async y await](https://drive.google.com/file/d/1jURhDPa2ByCz5CP657EE3fwFcKV_FpgG/view?usp=sharing)
 
+**Deploy proyecto Red Social:** [Repositorio deploy red social](https://github.com/msantelices/SCL020-deploy-Social-Network/)
+
 <br>
 <br>
 
