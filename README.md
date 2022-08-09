@@ -33,6 +33,8 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 
 **Deploy proyecto Red Social:** [Repositorio deploy red social](https://github.com/msantelices/SCL020-deploy-Social-Network/)
 
+**Peticiones HTTP:** [Codesanbox](https://codesandbox.io/s/scl020-requests-j5ylrt) - [Video](https://drive.google.com/file/d/1sAkF3Bz8ou0LzXEuluIGF5t4gRAd3LqN/view?usp=sharing)
+
 <br>
 <br>
 
@@ -92,5 +94,8 @@ Link al repo de gimnasio: [https://github.com/Laboratoria/SCL020-gym](https://gi
 [https://teloexplicocongatitos.com/](https://teloexplicocongatitos.com/)
 
 [https://www.instagram.com/teloexplicocongatitos/](https://www.instagram.com/teloexplicocongatitos/)
+
+**HTTP Cats:** Códigos de respuesta HTTP explicados con gatitos
+[https://http.cat/](https://http.cat/)
 
 **Datos Tortas:** [Presentación datos tortas](https://docs.google.com/presentation/d/1cL9j13xP7MJmJSDUdpfV2Dsh4RHMp4pl/edit?usp=sharing&ouid=100613322272875710395&rtpof=true&sd=true)
